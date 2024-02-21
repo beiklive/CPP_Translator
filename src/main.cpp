@@ -3,7 +3,7 @@
 
 int main() {
     // 创建 Translator 对象，并指定翻译文件的路径
-    Translator TR("/home/byeaxj/WorkSpace/MyCode/clearn/translate/");
+    Translator TR("/home/xxx/WorkSpace/MyCode/clearn/translate/");
 
     // 设置翻译语言类型为英语
     TR.Tr_setLanguageType(LANGUAGE_TYPE::EN);
